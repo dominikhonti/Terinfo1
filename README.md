@@ -10,4 +10,11 @@ próba repository
 * Rendszerszervezés
 * Geonfirmatika I
 * Íjászat
-* https://www.menetrendek.hu/
+* https://www.menetrendek.hu/ ez nem az órarendem linkje
+* Koli Rk 221/B
+
+## Kezdések
+* Hétfő 14:00
+* Kedd 8:00
+* Szerda 10:00
+* Csütörtök 9:00 

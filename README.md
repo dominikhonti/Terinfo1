@@ -11,3 +11,4 @@ próba repository
 * Geonfirmatika I
 * Íjászat
 * https://www.menetrendek.hu/ ez nem az órarendem linkje
+* Koli Rk 221B

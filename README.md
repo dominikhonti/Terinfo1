@@ -10,4 +10,4 @@ próba repository
 * Rendszerszervezés
 * Geonfirmatika I
 * Íjászat
-* https://www.menetrendek.hu/
+* https://www.menetrendek.hu/ ez nem az órarendem linkje
